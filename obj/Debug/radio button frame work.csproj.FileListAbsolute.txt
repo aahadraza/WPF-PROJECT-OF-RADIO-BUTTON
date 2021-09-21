@@ -1,0 +1,15 @@
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\bin\Debug\radio button frame work.exe.config
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\bin\Debug\radio button frame work.exe
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\bin\Debug\radio button frame work.pdb
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work.csproj.AssemblyReference.cache
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\MainWindow.g.cs
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\App.g.cs
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work_MarkupCompile.cache
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work_MarkupCompile.lref
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\MainWindow.baml
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work.g.resources
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio_button_frame_work.Properties.Resources.resources
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work.csproj.GenerateResource.cache
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work.csproj.CoreCompileInputs.cache
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work.exe
+C:\Users\AHAD RAZA\Desktop\New folder\radio button frame work\obj\Debug\radio button frame work.pdb
